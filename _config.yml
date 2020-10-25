@@ -82,9 +82,9 @@ yandex_site_verification :
 author:
   name             : "Ankita Patel"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Student in Computer Science at University Of Texas, Arlington"
   location         : "Arlington,TX"
-  employer         : "Graduate Student"
+  #employer         : ""
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "ankitaramjibhai.patel@mavs.uta.edu"
@@ -240,13 +240,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #     path: ""
+  #     type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
