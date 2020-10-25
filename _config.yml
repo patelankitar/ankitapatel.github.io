@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-us"
 title                    : "Ankita Patel"
 title_separator          : "-"
 name                     : &name "Ankita Patel"
@@ -56,65 +56,65 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+#  username               : &twitter
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 
 # Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+#analytics:
+#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ankita Patel"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Arlington,TX"
+  employer         : "Graduate Student, Computer Science"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  github           : "patelankitar"
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
+  linkedin         : "https://www.linkedin.com/in/patelankitar/"
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  #twitter          : "replacethistwitterhandle"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
